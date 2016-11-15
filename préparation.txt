@@ -1,0 +1,10 @@
+I) Préparation.
+
+1) Les commandes pour créer les 2 répertoires sont :
+mkdir TP_solo
+cd TP_solo.
+mkdir EnvDev.
+
+4) Pout cloner le répertoire, on utilise la commande : 
+git clone https://github.com/PolytechUPMC-IED/tp5-Alexia123.git
+
